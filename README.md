@@ -4,6 +4,4 @@ I am a Statistics Lecturer at the University of Chicago. There, I designed a cou
 
 I am also a Business Intelligence Developer in healthcare. My day-to-day tasks range from designing query models to capture clinical, regulatory, and business metrics to building visualization dashboards that reflect health equity patterns in hospital operations. I enjoy this field of work because I am able to communicate the technical facet of my work to field laymen. My goal is to novelize analytical tools to help multidisciplinary professionals and non-professionals make critical decisions in life.
 
-- Website: www.ariesprofits.com
-- Email: jonlee@ariesprofits.com
 - LinkedIn: www.linkedin.com/in/lykjohn
