@@ -4,4 +4,6 @@ I am the founder of Aries Profits, an online school that teaches data-driven tra
 
 As a higher education teacher, I had previously been a Lecturer at the University of Chicago and taught Data Science courses to college-level students of all backgrounds. What I enjoy most about teaching is that I am able to engage with students on both individual and team levels. My vision is to create a learning community for students to embrace uncertainty, obstruction, and frustration throughout their learning journey.
 
+- Company: www.ariesprofits.com
 - LinkedIn: www.linkedin.com/in/lykjohn
+- Facebook: https://www.facebook.com/profile.php?id=61550714735813
