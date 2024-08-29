@@ -1,6 +1,6 @@
 ### Hi, I am John Lee. Welcome to my repositories! 👋
 
-Experienced researcher, lecturer, and founder in the field of higher education, with the ultimate goal to help students happily achieve success.
+Experienced researcher, lecturer, and founder in the field of education technology, with the ultimate goal to help students happily achieve success.
 
 I am a Research Statistician at the College Board. I am there to novelize and refine analytical solutions for psychometric analyses. Examples include prototyping software applications to improve students' assessment experience, implementing statistical learning models to optimize item analysis, and refining proprietary programs to support the suite of assessment products, such as AP and SAT tests.
 
