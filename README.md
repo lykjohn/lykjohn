@@ -10,4 +10,5 @@ I am the founder of Aries Profits, an online school that teaches data-driven tra
 
 - Company: www.ariesprofits.com
 - LinkedIn: www.linkedin.com/in/lykjohn
-- Facebook: https://www.facebook.com/profile.php?id=61550714735813
+- Instagram: [https://www.facebook.com/profile.php?id=61550714735813](https://www.instagram.com/ariesprofits)
+-  YouTube: https://www.youtube.com/@ariesprofits
